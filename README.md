@@ -22,7 +22,7 @@
   <img width="300"
     src="https://sun9-86.userapi.com/impf/F8h6F-0N-BWuDCRarCkEKnNI8X3CR9Ovb7JUFg/P3Wz-P7LYJI.jpg?size=591x1280&quality=96&sign=5d92fa209b39402131a67d7c52248b44&type=album"
     alt="2">
-    <img width="640"
+    <img width="400"
     src="https://sun9-38.userapi.com/impf/zQ-Tv1FexU2RDQEjfb9KchJ5h_ENscrPKxNEZw/I122xoxp5q0.jpg?size=825x838&quality=95&sign=4076b3be20d505f6f44611e68b2968ce&type=album"
     alt="2">
 </p>
